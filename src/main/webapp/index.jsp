@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+	<%
+		response.sendRedirect("./faces/login.xhtml");
+	%>
+</body>
+</html>
